@@ -40,8 +40,8 @@
 ## Installation
 
 1. Clone repo: git clone:
-   `https://github.com/your-username/house-price-predictor.git`
-2. Navigate to the project directory: `cd house-price-predictor`
+   `https://github.com/Saurabhhhhhh/Machine-Learning-Projects.git`
+2. Navigate to the project directory: `cd Machine-Learning-Projects/house-price-predictor`
 3. Install packages: `pip install -r requirements.txt`
 
 ## Run
